@@ -1,0 +1,76 @@
+# Photo notes (working log)
+- 2803: Emerson (White-Rodgers) programmable thermostat, Cool mode, set 72F, fan prog. Sticker Silva Heating and Air. Conventional stat, not BAS.
+- 2804: Interior. Concrete columns/beams, timber joists, open mezzanine, spiral duct, linear lights. Context.
+- 2805: Exposed spiral galvanized supply duct, no insulation. Timber deck + concrete beam. Envelope/distribution.
+- 2806: Open office. Heavy timber + concrete frame, steel seismic braced frames (retrofit), steel-sash industrial windows w/ roller shades, linear pendant lights, spiral duct.
+- 2807: Low wall return grille (filter grille).
+- 2808: Linear pendant fixture with sensor/indicator at end cap, Wi-Fi AP, conduit. Pendant bulbs.
+- 2809: Round ceiling supply diffuser on exposed spiral duct. Timber deck. Hanging planters.
+- 2810: Duct fitting label "14X14X14 TRUE TEE 26GA SLD 1301.SPC" (sheet metal fitting, not equipment).
+- 2811: Duct reducer stamped 14X12.
+- 2812: HTP Phoenix water heater install manual LP-179 REV 8.23.13. Models PH100/130/160/199 x 55/80/119 gal. Gas-fired condensing commercial water heater. Manual rev date 2013 bounds install >= 2013.
+- 2813: HTP controller display 122F, green power LED. Phoenix unit running.
+- 2814: Phoenix tank label "T&P tapping..." partial. No nameplate.
+- 2817: Two small round spiral ducts sealed with Nashua/Polyken 339 foil tape, uninsulated, on concrete. 
+- 2818: 2nd floor corridor by MEN restroom. Closet with HTP Phoenix stainless tank water heater (gas valve, yellow tag). Louvered linear pendant (fluorescent-style, warm). Electrical panel at right. EMT conduit bank.
+- 2819: Square D QO load center, cover QOC42UF (42 ckt). Directory: lights (3,4,5), mod furniture (many), code cave outlets, bathroom, 23 WATER HEATER. No HVAC circuits on this panel. "Meeting rooms" handwritten.
+- 2820: Blurred, unusable.
+- 2821: "2ND FLOOR PANEL B" label. Square D QO, 133212 date code? (label 40265-446-06).
+- 2822: Blurred, unusable.
+- 2823: HTP Phoenix in closet on concrete wall. Hot water piping insulated (black elastomeric), expansion tank, CPVC/PVC (likely venting PVC = condensing). Condition good, clean.
+- 2824: AirDoctor portable air purifier (ENERGY STAR). Plug load, minor.
+- 2825: Elevator cab, stainless doors, floor 2. Passenger elevator. Industrial steel-sash window in shaft wall.
+- 2826: 2ND FLOOR PANEL A, Square D QO (QOC42UF). Ckts 13/15 A/C (2-pole), 19/21 A/C (2-pole) => ~2 A/C units served. Bathroom, lights, track lights, outlets, IDF room outlets, data 30A, sub panel 32/34/36 (3-pole).
+- 2827: CaptiveAire grease duct label, Job 1995224, 20in double wall horizontal fire stop kit, Tag P2, Duct run #1. => commercial kitchen hood + exhaust fan exist.
+- 2828: CaptiveAire factory built grease duct, DW14 (14in inner), 20in stainless outer, 3-layer zero clearance, Tag P11.
+- 2829: Grease duct label, blurred. Same system.
+- 2830: CaptiveAire grease duct DW14 access door, Job 1995224, Duct Run #1, Tag P4.
+- 2831: Low wall return/filter grille on concrete floor (sealed concrete = likely ground floor).
+- 2832: AV/network rack in closet (IT plug load, "Air receiver do not touch").
+- 2833: True Refrigerator 3-door glass-door reach-in (T-72G class). Commercial refrigeration.
+- 2834: Kitchen: CaptiveAire exhaust hood with baffle filters over double-stacked full-size convection ovens (chef-head badge, brand not legible; fuel not confirmed). Bevi water dispenser. Cambro insulated carriers (unpowered).
+- 2836: True reach-in digital controller reading 37F. Same unit as 2833.
+- 2837: Hoshizaki 4HC-H water filter (Pentair Everpure), dated 5/15? => Hoshizaki ice machine likely present (not photographed). Stainless sink.
+- 2838: Auto-Chlor commercial dishwasher nameplate. SER 10638, MOD AC, 115V 60Hz 12A, UL E34964, plate Rev 8.2015. Leased low-temp chemical-sanitizing machine (relies on building hot water, no booster).
+- 2839: Auto-Chlor door-type dishwasher with soiled/clean tables, Mach chemicals. Three-compartment sink. Kitchen dish area.
+- 2840: PG&E SmartMeter GE kV2ce, meter [redacted], CL200 120-480V 4W form 16S (3-phase), Silver Spring NIC. Meter stack.
+- 2841: PG&E SmartMeter GE kV2ce, meter [redacted], "120V" handwritten, same spec. => multiple meters, multi-meter building.
+- 2843: PG&E SmartMeter GE kV2ce [redacted] (3rd tenant meter), same spec.
+- 2844: PG&E SmartMeter GE kV2ce [redacted] labeled HOUSE (house/common meter). Date 0212.
+- 2845: Square D EZM3400FS EZ Meter Pak, main fusible switch 400A max, 208Y/120V 3ph 4W. Multi-position meter stack => service 208Y/120V.
+- 2846: Security/access panels: Bay Alarm, Honeywell, Lenel access control, Linear. Minor plug load. Concrete wall.
+- 2847: CARRIER gas furnace nameplate. Model 59SC5A120S241120 (reads 59SC5A120S24-1120), Serial 0313A43720, "1 Stg, PSC". Serial decode week 03 yr 2013 => Jan 2013. 120 kBtu/h input, 95.5 AFUE, PVC vent (condensing). Carrier Comfort 95 (59SC5).
+- 2848: EnergyGuide label furnace natural gas, Carrier 59SC5A120S24--20, AFUE 95.5.
+- 2849: Same furnace nameplate as 2847 (duplicate angle). Model 59SC5A120S241120, Serial 0313A43720.
+- 2850: Furnace PVC intake/exhaust (Sch 40 DWV) + gas regulator/valve. Confirms condensing, direct-vent, natural gas.
+- 2851: Grease duct label, blurred (CaptiveAire).
+- 2852: PVC vent pipes in chase next to board-formed concrete wall.
+- 2853: ROOF. Split-system condensing unit (residential-style, top discharge, Carrier/Bryant cabinet style). Light rust on fasteners. White reflective roof membrane. Refrigerant lines insulated but jacket degraded.
+- 2854: ROOF. Second condensing unit, heavier rust on fan guard. Different unit from 2853 (different surroundings).
+- 2855: ROOF. Carrier split AC condenser, Puron R-410A label (duct-taped), coil guard rusted, fins corroded. Other rooftop units visible behind (packaged units / condensers). Condition fair-poor.
+- 2856: Carrier AC nameplate: SERIAL 4812E04428, PROD 24ABB360W0032010, MODEL 24ABB360W0?? , TXV indoor, R410A 8.19 lb, 208-230V 1ph, comp RLA 26.4 LRA 134, fan 1/4HP, MCA 34.2, max fuse 50A, DATE OF MANUFACTURE NOV 2012. AHRI 210/240 unitary small AC. 24ABB3 = Carrier Comfort 13 SEER, 60 = 5 ton. => condenser CU-A (2012).
+- 2857: ROOF. Square D general duty safety switch 60A 240V, marked "2nd Floor #A". => condenser disconnects labeled by floor/zone.
+- 2858: Faded Carrier AC nameplate: serial 3014E16192 (wk 30 2014), prod 24ABB360A0052010, model 24ABB360A520 (partial), R410A 3.63 kg, 208-230V. 5 ton 13 SEER, 2014. Different unit from 2856.
+- 2859: ROOF. Condenser top, rust on fan guard, against textured parapet. 
+- 2860: Condenser corner embossed Carrier logo plate "33 X 33" (cabinet size).
+- 2861: ROOF. Carrier packaged gas/electric RTU nameplate. MODEL 48ESNA6011550--, SERIAL 0813C35007 (wk 08 2013). R-410A 10 lb, 208/230V 3ph, MCA 28.8, MOCP 40A. Comp RLA 16 LRA 110. Indoor fan 1HP, OD fan 1/5HP. Gas input 115,000, output 93,000 Btu/h, thermal eff 81%. Cooling 57,000 Btu/h, EER 11. 48ES = WeatherMaker 13 SEER, 5 ton. => RTU-A.
+- 2862: ROOF. Second 48ESNA6011550 nameplate, SERIAL 0813C35005 (wk 08 2013). Same spec. Distinct unit (serial differs) => RTU-B.
+- 2863: ROOF overview. Split condenser (foreground) + packaged RTU with disconnect (center) + second packaged RTU (right). Supply/return ductwork on roof coated/encased in white spray foam (SPF). Roof is spray polyurethane foam with elastomeric white coating. Antenna mast. Parapet.
+- 2864: ROOF. Another split condenser against penthouse wall, service ladder, walk pads. Refrigerant lines with degraded insulation (black wrap, exposed). Line sets painted.
+- 2865: ROOF. Packaged RTU with disconnect, ductwork foam-encased, mushroom vents (plumbing vents/gravity), gas piping painted white. Two white louvered cabinets on right (possibly outdoor tankless water heaters or electrical).
+- 2866: ROOF. Outdoor gas water heater cabinet (warning label "water heater has a main burner", flammable vapors). Label cracked/weathered. Gas pipe, insulated water pipe below, on wood blocking. Likely outdoor tankless (Rinnai/Noritz style). Condition fair.
+- 2867: ROOF. Two Rheem Prestige outdoor tankless gas water heaters side by side, on parapet wall. AHRI + ENERGY STAR stickers. Gas regulators each. Paint overspray. No model visible. (Prestige outdoor, likely RTG-95XLN / RTGH series; unconfirmed).
+- 2868: Close-up one Rheem Prestige tankless, ENERGY STAR + AHRI badges (ENERGY STAR tankless => UEF >= 0.87 era-dependent; Prestige condensing models ~0.93). No nameplate visible on front.
+- 2869: ROOF. Carrier 48ESNA6011550 nameplate SERIAL 0813C35006, DATE OF MFR FEB 2013. Third WeatherMaker. Complies ASHRAE 90.1-2004. => RTU-C.
+- 2870: ROOF. Faded condenser nameplate, 208/230 3ph, comp RLA 16.0 LRA 118, 3.63 kg R410A, 10F subcool, MCA 21.4, max 30A, DOM "JUL 20??". Matches 2858 (serial 3014E16192, wk30 2014 = July 2014). Treat as same unit as 2858 (likely re-shot), flag.
+- 2871: ROOF. ICP (International Comfort Products, Carrier family) packaged gas/electric RTU. MODEL PGD460090H001K1, SERIAL F242046717, DOM MAY 2024. 208/230 3ph, MCA 24.9. Gas in 90,000 / out 74,000, 82% thermal eff. Cooling 56,000 Btu/h (~4.7 ton, nominal 5 ton). R410A 10.75 lb. Complies ASHRAE 90.1-2019. => RTU-D, new 2024.
+- 2872: ROOF. Carrier AC nameplate SERIAL 4812E04427, 24ABB360W0032010 / 24ABB360W320, NOV 2012, 1ph, MCA 34.2. Sequential to 4812E04428 (2856) => two identical condensers, distinct.
+- 2873: ROOF. Packaged RTU (foreground, badge not visible) + two split condensers side by side near penthouse (one Carrier-badged, rusted coil guard). Pyramid skylight (bronze tint, weathered). Elevator/stair penthouse with door. Steel-sash clerestory glazing. Thermostat-looking box on parapet (likely disconnect/timer).
+- 2874: ROOF. Packaged RTU (Carrier/ICP) with yellow disconnect, foam-encased duct, pyramid skylights. Kitchen exhaust fan + stainless grease duct in background. 
+- 2875: CaptiveAire exhaust fan label, cracked/unreadable. Marker "Belt 1-AX44" (belt size) => belt-drive kitchen exhaust fan.
+- 2876: ROOF. Beige louvered cabinet with ducted outlet on stand: evaporative cooler (swamp cooler) style, likely kitchen make-up air unit. Brand not visible. Uncertain.
+- 2877: ROOF. CaptiveAire upblast/utility-set belt-drive kitchen exhaust fan on vibration isolators + stainless grease duct riser. Label "Belt 1-AX44". Condition fair.
+- 2878: ROOF. Antenna mast (microwave/point-to-point dishes). Not energy-relevant. Split condenser bottom-left.
+- 2879: Interior view out of steel-sash industrial window, 2nd floor street side. Single-pane clear glass in steel muntins (no visible IGU spacer, thin profile) => very likely single glazing, no thermal break. Key envelope finding.
+- 2880: Floor 2. ADP evaporator coil label on top of a Carrier furnace: model C60A245C286 (5 ton cased coil), serial 7112B14424, R-410A, TXV, AHRI certified.
+- 2881: Floor 2. Carrier two-door condensing gas furnace (PVC vent and intake), hand-marked Floor #2-A on both doors. Same unit as 2880. Rating plate not visible.
